@@ -6,7 +6,7 @@ A simple Java GUI program that take an input from user ( from a to z ) regardles
 ---------------------------------------
 Note
 =====
-This simple Java GUI progarm dosen't check if the key has a frequently charchter ( such ad Moll) 
+This simple Java GUI progarm dosen't check if the key has a frequently charchter ( such as Moll) 
 
 --------------------------------------
 Algorithm
